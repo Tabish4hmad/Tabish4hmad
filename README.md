@@ -1,96 +1,97 @@
 <h1 align="center">Hi, I'm Tabish Ahmed 👋</h1>
 
-<h3 align="center">System Engineer | Aspiring DevOps & Cloud Engineer</h3>
+<h3 align="center">System Engineer | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-  Building practical skills in IT Infrastructure, Cloud Computing,
-  Automation, and Containerization.
+  Building and troubleshooting infrastructure, containerized applications,
+  and cloud environments through hands-on projects.
+</p>
+
+<p align="center">
+  <a href="https://github.com/tabish4hmad">
+    <img src="https://img.shields.io/badge/GitHub-tabish4hmad-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-blue?style=for-the-badge" alt="Cloud and DevOps">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🖥️ Working in the IT infrastructure and systems domain.
-- ☁️ Learning cloud computing and AWS services.
-- 🐳 Practicing Docker, Kubernetes, and container orchestration.
-- 🐧 Exploring Linux administration, networking, and troubleshooting.
-- 🔧 Building hands-on labs to solve real-world infrastructure problems.
-- 🎯 Goal: Grow into a DevOps / Cloud Engineering role.
+I'm a System Engineer developing practical skills in cloud infrastructure, automation, and container orchestration.
 
-## 🛠️ Technologies & Tools
+- Infrastructure administration and troubleshooting
+- Working with Docker and Kubernetes
+- Exploring AWS cloud services and Linux administration
+- Practicing application deployment and database connectivity
+- Learning Infrastructure as Code with Terraform and Ansible
 
-**Operating Systems**
-- Windows, Linux, Ubuntu
+**Current goal:** Build reliable, documented infrastructure projects and grow into a DevOps / Cloud Engineering role.
 
-**Cloud & Infrastructure**
-- AWS: EC2, S3, IAM, VPC
-- Networking: TCP/IP, DNS, DHCP
+## Technical Skills
 
-**Containers & Orchestration**
-- Docker
-- Kubernetes
+| Category | Technologies |
+|---|---|
+| Operating Systems | Windows, Linux, Ubuntu |
+| Cloud | AWS EC2, S3, IAM, VPC |
+| Containers | Docker, Kubernetes |
+| Networking | TCP/IP, DNS, DHCP |
+| Databases | PostgreSQL, Microsoft SQL Server |
+| Version Control | Git, GitHub |
+| Automation | Bash scripting |
+| Currently Learning | Terraform, Ansible, CI/CD |
 
-**Automation & DevOps**
-- Git and GitHub
-- Bash scripting
-- Terraform and Ansible — learning
+## Featured Projects
 
-**Databases**
-- PostgreSQL
-- Microsoft SQL Server
+### Kubernetes + Microsoft SQL Server Lab
+Exploring database deployment and application connectivity in Kubernetes.
 
-## 🚀 Featured Projects
+- Kubernetes deployments and services
+- Persistent storage for database data
+- Container networking and connectivity troubleshooting
+- Documented setup and validation steps
 
-### 1. Kubernetes + SQL Server Lab
-A hands-on lab exploring SQL Server deployment in Kubernetes.
+**Stack:** Kubernetes · Docker · Microsoft SQL Server
 
-- Deploy SQL Server using Kubernetes resources.
-- Configure persistent storage for database data.
-- Expose SQL Server through Kubernetes networking.
-- Test connectivity and troubleshoot application-to-database communication.
+### Dockerized Web Application
+Containerization and deployment of a web application with a database.
 
-**Technologies:** Kubernetes, Docker, SQL Server
+- Docker image creation and container deployment
+- Application environment configuration
+- Database connectivity
+- Deployment and troubleshooting documentation
 
-### 2. AWS Infrastructure Lab
-Practical experiments with AWS infrastructure and cloud services.
+**Stack:** Docker · Django · PostgreSQL
 
-- Launch and configure EC2 instances.
-- Explore IAM permissions and security.
-- Configure VPC networking and security groups.
-- Deploy and document a sample application.
+### AWS Infrastructure Lab
+Hands-on practice deploying and managing cloud infrastructure.
 
-**Technologies:** AWS, Linux, Networking
+- EC2 instance configuration
+- IAM and access management
+- VPC networking and security groups
+- Application deployment and documentation
 
-### 3. Docker Application Deployment
-Containerize and deploy a web application.
+**Stack:** AWS · Linux · Networking
 
-- Build and run Docker images.
-- Configure application environment variables.
-- Connect an application to a database.
-- Document deployment and troubleshooting steps.
+> Add the actual repository links to these projects and adjust the descriptions to match the features you've implemented.
 
-**Technologies:** Docker, Python, Django, PostgreSQL
+## Current Learning Roadmap
 
-> Add repository links to these projects once the repositories are published and the documentation is complete.
-
-## 📚 Currently Learning
-
-- AWS cloud infrastructure
-- Kubernetes administration
+- AWS infrastructure and cloud networking
 - Linux system administration
-- Infrastructure as Code with Terraform
-- Configuration management with Ansible
-- CI/CD fundamentals
+- Kubernetes operations
+- Terraform and Infrastructure as Code
+- Ansible configuration management
+- CI/CD pipelines
 
-## 📫 Connect With Me
+## GitHub Activity
 
-- LinkedIn: https://www.linkedin.com/in/tabish4hmad
-- GitHub: https://github.com/tabish4hmad
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tabish4hmad&show_icons=true&hide_border=true" alt="GitHub statistics">
+</p>
 
 ---
 
 <p align="center">
-  <i>Learn by building. Improve by troubleshooting. Grow by sharing.</i>
+  <i>Build it. Break it. Troubleshoot it. Document it. Improve it.</i>
 </p>
-
